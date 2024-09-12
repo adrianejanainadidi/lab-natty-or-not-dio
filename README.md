@@ -1,51 +1,32 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# A nova Era
 
-## 🚀 Introdução
+## Introdução
 
-> Woooow! Look at this 👀
+Esse trabalho tem como intuito testar meu aprendizado na utilização de IAs Generativas, por isso foi feito seguindo os passos apresentados pelo professor.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+### O que foi feito
+1. Foi feito um "fork" do repositório apresentado pelo professor, criando uma cópia pessoal;
+2. Depois, foi feita essa introdução para servir como aviso e explicação do que vai se seguir;
+3. Então, editei o README com os detalhes do projeto, usando o template apresentado pelo professor;
+4. Um vídeo usando IA generativa foi feito.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
+## 📄 Descrição
+Este projeto explora o potencial das IAs Generativas na criação de conteúdo digital. Através de um vídeo de 1 minuto, apresentamos uma visão rápida e envolvente das aplicações dessas tecnologias na vida cotidiana.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **Copilot**: Utilizado para auxiliar na escrita e revisão do código e do conteúdo textual do projeto.
+- **Fliki**: Ferramenta para transformar texto em vídeo, com voz sintetizada e elementos visuais.
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+## 🛠️ Processo de Criação
+1. **Roteirização com Copilot**: Utilizei o Copilot para escrever e revisar o roteiro do vídeo. O Copilot ajudou a estruturar o texto de forma clara e coesa, sugerindo melhorias e correções ao longo do processo.
+2. **Transformação de Texto em Vídeo com Fliki**: Com o roteiro pronto, usei o Fliki para converter o texto em vídeo. O Fliki gerou uma voz sintetizada para narrar o conteúdo e adicionou elementos visuais que complementam a narração, criando uma experiência visual e auditiva envolvente.
+3. **Edição e Finalização**: Após gerar o vídeo no Fliki, fiz ajustes finais para garantir a qualidade do conteúdo. Isso incluiu a revisão da sincronização entre áudio e vídeo, bem como a adição de transições e efeitos visuais para tornar o vídeo mais dinâmico.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O vídeo resultante em uma breve analise sobre Ia e suas utilidades, é uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador. O projeto demonstrou a eficácia dessas tecnologias na criação de conteúdo de alta qualidade de forma eficiente.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+## 💡 Reflexão
+Criar algo 'natty' com IA foi um desafio interessante. A integração de diferentes ferramentas de IA mostrou-se poderosa, mas também exigiu um bom entendimento de cada uma para obter os melhores resultados. Este projeto não só testou minhas habilidades técnicas, mas também expandiu minha visão sobre o futuro das IAs Generativas.
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+**Nota**: Este texto foi criado com a ajuda do Copilot.
